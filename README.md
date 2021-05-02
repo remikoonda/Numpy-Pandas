@@ -1,2 +1,2 @@
 # Numpy-Pandas
-# This repository covers basic numpy and pandas techniques using Python. 
+# This repository covers basic Numpy and Pandas techniques using Python. 
